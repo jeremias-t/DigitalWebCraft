@@ -48,7 +48,7 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
   }
 
   .text-container h1 {
-    font-size: 6rem;
+    font-size: 4rem;
     font-weight: 900;
     margin-bottom: 0.5rem;
     color: #fff;
@@ -122,6 +122,8 @@ body, h1, h2, h3, h4, h5, h6, p, ol, ul {
     .img-header {
       display: none;
     }
+    .text-container h1 {
+      font-size: 3rem;}
 }
 
 @media screen and (max-width: 480px) {
